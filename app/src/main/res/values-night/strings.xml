@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="listado">LISTADO DE SENSORES EN COLUMNAS</string>
+    <string name="disponibles">Sensores disponibles en el dispositivo</string>
+    <string name="sensor">Sensor</string>
+</resources>

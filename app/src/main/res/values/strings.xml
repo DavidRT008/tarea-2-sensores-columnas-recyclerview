@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="listado">LISTADO DE SENSORES EN COLUMNAS</string>
+    <string name="disponibles">Sensores disponibles en el dispositivo</string>
+    <string name="sensor">Sensor</string>
+</resources>
